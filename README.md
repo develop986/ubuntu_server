@@ -9,7 +9,7 @@
 
 > ファイヤーウォールはIndigoで設定しておく
 > - インバウンドルール
-> - HTTP(80)、HTTPS(443)、SSH(22)
+> - HTTP(80)、HTTPS(443)、SSH(22)、Cockpit(9090)
 > - 0.0.0.0
 
 - [WebARENA Indigo 向け](./01_Indigo.md)
