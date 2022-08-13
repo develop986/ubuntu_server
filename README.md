@@ -16,18 +16,12 @@
 
 ## ベースサービス
 
-- [Apache HTTP Server](./02_Apache.md)
+- [Docker](./02.Docker.md)
   - SSL対応含む
 
 ## 開発ソフト
 
-- [Node.js](./80_NodeJs.md)
-- [OpenJDK](./80_OpenJDK.md)
-  - Gradle含む
-
 ## データベース
-
-- [MongoDB](./80_MongoDB.md)
 
 ## ソフトウェア
 
